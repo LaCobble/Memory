@@ -1,3 +1,3 @@
 # Memory
 
-C'est un projet qu'on devait réaliser en TP
+Projet algorithmique, qu'on devait réaliser pour un TP d'algorithme avancé.
