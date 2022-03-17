@@ -9,5 +9,7 @@ Ce programme est codé en java avec le modèle MCV
 Ce modèle permet de définir le rôle des trois entités de la façon suivante :
 
 Modèle : est la logique métier de l’application ;
+
 Vue : définit l’interface utilisateur ;
+
 Contrôleur : prends en charge la gestion des évènements pour mettre à jour la vue ou le modèle.
