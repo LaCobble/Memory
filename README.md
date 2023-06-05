@@ -1,15 +1,25 @@
 # Memory
 
-Projet algorithmique, qu'on devait réaliser pour un TP d'algorithme avancé.
+This project is an algorithmic implementation of the Memory game, created as part of an advanced algorithm lab. The program is coded in Java using the MVC (Model-View-Controller) architectural pattern.
 
-Ce programme est codé en java avec le modèle MCV
+![Memory Game](memory_game_image.jpg)
 
-![image](https://user-images.githubusercontent.com/71151090/158854916-826c1280-b274-49b9-a195-fdc86851da9f.png)
+The MVC pattern defines the role of the three entities as follows:
 
-Ce modèle permet de définir le rôle des trois entités de la façon suivante :
+- Model: Represents the business logic of the application.
+- View: Defines the user interface.
+- Controller: Handles event management to update the view or the model.
 
-Modèle : est la logique métier de l’application ;
+##How to Use the Program
+To use the Memory game program, follow these steps:
 
-Vue : définit l’interface utilisateur ;
+Ensure that you have Java installed on your system.
+Clone the GitHub repository to your local machine.
+Open the project in your preferred Java development environment.
+Compile and run the program.
+Follow the on-screen instructions to play the Memory game.
 
-Contrôleur : prends en charge la gestion des évènements pour mettre à jour la vue ou le modèle.
+##Notes
+The game follows the traditional rules of the Memory game, where players need to find pairs of matching images.
+The game's user interface is not graphical; it is console-based.
+Feel free to modify the code to add a graphical user interface or enhance the features of the game.
