@@ -1,8 +1,10 @@
 # Memory
 
-This project is an algorithmic implementation of the Memory game, created as part of an advanced algorithm lab. The program is coded in Java using the MVC (Model-View-Controller) architectural pattern.
+<p align="center">
+<img src="https://github.com/LaCobble/Memory/assets/71151090/472791e3-9001-4fca-b2f2-629b55433c66" width=40% height=40%>
+</p>
 
-![Memory Game](memory_game_image.jpg)
+This project is an algorithmic implementation of the Memory game, created as part of an advanced algorithm lab. The program is coded in Java using the MVC (Model-View-Controller) architectural pattern.
 
 The MVC pattern defines the role of the three entities as follows:
 
