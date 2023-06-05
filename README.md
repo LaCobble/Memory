@@ -10,7 +10,7 @@ The MVC pattern defines the role of the three entities as follows:
 - View: Defines the user interface.
 - Controller: Handles event management to update the view or the model.
 
-##How to Use the Program
+## How to Use the Program
 To use the Memory game program, follow these steps:
 
 Ensure that you have Java installed on your system.
@@ -19,7 +19,7 @@ Open the project in your preferred Java development environment.
 Compile and run the program.
 Follow the on-screen instructions to play the Memory game.
 
-##Notes
+## Notes
 The game follows the traditional rules of the Memory game, where players need to find pairs of matching images.
 The game's user interface is not graphical; it is console-based.
 Feel free to modify the code to add a graphical user interface or enhance the features of the game.
