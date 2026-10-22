@@ -7,9 +7,17 @@
 
 The classic Memory card game (find the matching pairs), written in Java with Swing and structured around the **MVC** (Model-View-Controller) pattern.
 
-![Memory start screen: a 4 x 5 grid of face-down cards, the move and pair counters, and the Replay / Quit buttons](docs/images/memory.webp)
+## Screenshots
 
-*Start screen, rendered from the real Swing window. The interface text is in French ("Nombre de coups joués" = moves played, "paires découvertes" = pairs found, "Rejouer" = replay, "Sortir" = quit).*
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%"><img src="docs/images/memory-start.webp" alt="Start screen: 20 face-down cards, move and pair counters at 0, Replay and Quit buttons"><br><sub>Start: 20 cards face down</sub></td>
+    <td align="center" valign="top" width="33%"><img src="docs/images/memory-progress.webp" alt="Game in progress: three pairs found and two non-matching cards turned over; 4 moves, 3 pairs"><br><sub>In progress: 3 pairs found, a miss showing</sub></td>
+    <td align="center" valign="top" width="33%"><img src="docs/images/memory-win.webp" alt="End of game: all cards face up, message saying all pairs were found in 11 tries, and Bravo"><br><sub>Win: all pairs found in 11 moves</sub></td>
+  </tr>
+</table>
+
+*Rendered from the real Swing window while the game runs (clicks sent to the grid by a small test driver). The interface text is in French: "coups joués" = moves played, "paires découvertes" = pairs found, "Rejouer" = replay, "Sortir" = quit.*
 
 ## What it does
 
